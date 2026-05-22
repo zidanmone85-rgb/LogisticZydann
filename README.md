@@ -630,7 +630,7 @@
 </footer>
 
 <script>
-const API_KEY = 'ouX4lmi5e83b0dca8a8a9bebuRE46ojF';
+const API_KEY = '8e49f28e0f2f2cf56393c352613eec358e85fb7077ce6f7f453ebb826a7b1f6d';
 
 // Proxy list untuk bypass CORS (dicoba berurutan)
 const PROXIES = [
